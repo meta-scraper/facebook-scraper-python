@@ -1,1 +1,13 @@
+__pycache__/
+*.log
+log.txt
+*.venv
+.env
+.venv
+env/
+venv/
+results/*
+*settings.json
+.vscode/*
+.DS_Store
 test.py
