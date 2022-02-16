@@ -15,7 +15,7 @@ Python 3+
    pip install meta-scraper
 
 `Link to the python package
-page <https://pypi.org/project/google-maps-reviews/>`__
+page <https://pypi.org/project/meta-scraper/>`__
 
 Initialization
 --------------
